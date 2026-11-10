@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="课题组学期综合评价的学生和教职工作台入口。">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; script-src 'self'; base-uri 'none'; form-action 'none'">
+  <title>课题组学期综合评价</title>
+  <link rel="stylesheet" href="./assets/site.css">
+  <script src="./assets/config.js" defer></script>
+  <script src="./assets/site.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell brand">
+      <span class="brand-mark" aria-hidden="true">评</span>
+      <span>课题组学期评价</span>
+    </div>
+  </header>
+
+  <main class="shell">
+    <div class="intro">
+      <p class="eyebrow">学期评价入口</p>
+      <h1>课题组学期综合评价</h1>
+      <p class="lead">选择身份，进入正式评分系统。</p>
+    </div>
+
+    <section class="entries" aria-label="按身份进入">
+      <article class="entry">
+        <span class="entry-index" aria-hidden="true">01</span>
+        <h2>学生入口</h2>
+        <p>填写学生互评，查看互评汇总与公示结果。</p>
+        <a class="entry-link" data-route="/" hidden>进入学生端 <span aria-hidden="true">→</span></a>
+      </article>
+      <article class="entry">
+        <span class="entry-index" aria-hidden="true">02</span>
+        <h2>教职工作台</h2>
+        <p>教师、管理员和结算审核人从这里登录。</p>
+        <a class="entry-link" data-route="/staff/login/" hidden>进入工作台 <span aria-hidden="true">→</span></a>
+      </article>
+    </section>
+
+    <p class="status" id="connection-status" role="status">正式评分系统地址尚未配置，请联系课题组管理员。</p>
+    <noscript><p class="noscript">请启用浏览器的 JavaScript 后重新打开此页。</p></noscript>
+  </main>
+
+  <footer class="shell site-footer">登录、评分和结果均在正式评分系统中处理。</footer>
+</body>
+</html>
