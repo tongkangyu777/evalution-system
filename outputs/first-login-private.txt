@@ -1,0 +1,22 @@
+﻿课题组学期综合评价系统｜首次登录交接
+仅交给课题组负责人。请分别发给本人，勿发送整份凭证。工作台账号首次登录须修改临时密码。
+
+学生管理员
+账号  lab-admin
+临时密码  yyFeytLFWu5v3hbmz0Z0XvHK
+
+吴敏
+账号  wu-min
+临时密码  fUuc0iU_wJSjuyN8l1SBlY8b
+
+刘馨刚
+账号  liu-xinggang
+临时密码  VV3B-OJo2LvvFo-cmHQqk2-j
+
+结算审核人
+账号  lab-reviewer
+临时密码  YdHBMSwhVPkp4brDZXPunAr6
+
+学生统一口令  imkWJEwYZmvPLpte
+开启互评后，学生用姓名和上面的统一口令登录。
+完成交接后，请妥善保管或移除此文件。
